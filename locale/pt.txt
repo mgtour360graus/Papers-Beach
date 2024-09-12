@@ -1,0 +1,101 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_C744F8D3_E317_DF8F_41D6_333DA5836D8F.source = https://g.page/r/CWec8gWEE4LyEBM/review
+LinkBehaviour_C28070E1_E4F7_AF8B_41E2_687E9B90DA4A.source = https://g.page/r/CWec8gWEE4LyEBM/review
+LinkBehaviour_C3ECBEB4_E4F0_738A_41CC_AC9F0880ED1E.source = https://g.page/r/CWec8gWEE4LyEBM/review
+LinkBehaviour_C2854CCD_E4F0_D79A_41E3_E37F06D37E3B.source = https://g.page/r/CWec8gWEE4LyEBM/review
+LinkBehaviour_6A8237A8_7C01_697A_41DA_77BE9239DC03.source = https://maps.app.goo.gl/QCcLoragzW2LdDze7
+LinkBehaviour_FDABF805_E313_BE88_41D9_0173661AEB3B.source = https://maps.app.goo.gl/QCcLoragzW2LdDze7
+LinkBehaviour_C6EB1EC1_E310_738B_41D0_25E88DBC42ED.source = https://maps.app.goo.gl/QCcLoragzW2LdDze7
+LinkBehaviour_C79284A3_E317_B78F_41A2_EB69805AA98E.source = https://maps.app.goo.gl/QCcLoragzW2LdDze7
+LinkBehaviour_C792C4A3_E317_B78F_41D4_45D9920EF4E7.source = https://velolink.com.br/papersbeach
+LinkBehaviour_FCFBB6AC_E310_5398_41DF_E7196D467689.source = https://velolink.com.br/papersbeach
+LinkBehaviour_ECBB5958_E313_FEEA_41AD_6B24FED127D9.source = https://velolink.com.br/papersbeach
+LinkBehaviour_C6EB9EC1_E310_738B_41BC_C126D0A54029.source = https://velolink.com.br/papersbeach
+LinkBehaviour_C3D60321_E4F3_B28B_41E0_6694DB0528AB.source = https://wa.me/55533236531?text=Ol%C3%A1!%20Bem-vindo%20a%20Papelaria%20Paper%C2%B4s%20Beach!%20Estamos%20muito%20contentes%20em%20atend%C3%AA-lo.%20Para%20iniciarmos%20o%20atendimento%2C%20voc%C3%AA%20poderia%20nos%20dizer%20seu%20nome%2C%20por%20gentileza%3F
+LinkBehaviour_CCB9D488_E4F0_D79A_41B5_3E73D2AFF299.source = https://wa.me/55533236531?text=Ol%C3%A1!%20Bem-vindo%20a%20Papelaria%20Paper%C2%B4s%20Beach!%20Estamos%20muito%20contentes%20em%20atend%C3%AA-lo.%20Para%20iniciarmos%20o%20atendimento%2C%20voc%C3%AA%20poderia%20nos%20dizer%20seu%20nome%2C%20por%20gentileza%3F
+LinkBehaviour_CCBE9D9A_E4F1_F1B9_41EA_2470451CB540.source = https://wa.me/55533236531?text=Ol%C3%A1!%20Bem-vindo%20a%20Papelaria%20Paper%C2%B4s%20Beach!%20Estamos%20muito%20contentes%20em%20atend%C3%AA-lo.%20Para%20iniciarmos%20o%20atendimento%2C%20voc%C3%AA%20poderia%20nos%20dizer%20seu%20nome%2C%20por%20gentileza%3F
+LinkBehaviour_C2886447_E4F3_D696_41D4_376C254BB80A.source = https://wa.me/55533236531?text=Ol%C3%A1!%20Bem-vindo%20a%20Papelaria%20Paper%C2%B4s%20Beach!%20Estamos%20muito%20contentes%20em%20atend%C3%AA-lo.%20Para%20iniciarmos%20o%20atendimento%2C%20voc%C3%AA%20poderia%20nos%20dizer%20seu%20nome%2C%20por%20gentileza%3F
+LinkBehaviour_C3D752FB_E4F0_537F_41D2_196A905B4CEB.source = https://wa.me/55533236531?text=Ol%C3%A1!%20Bem-vindo%20a%20Papelaria%20Paper%C2%B4s%20Beach!%20Estamos%20muito%20contentes%20em%20atend%C3%AA-lo.%20Para%20iniciarmos%20o%20atendimento%2C%20voc%C3%AA%20poderia%20nos%20dizer%20seu%20nome%2C%20por%20gentileza%3F
+LinkBehaviour_C6EBFEC1_E310_738B_41B4_9C25CA1554D4.source = https://wa.me/55533236531?text=Ol%C3%A1!%20Bem-vindo%20a%20Papelaria%20Paper%C2%B4s%20Beach!%20Estamos%20muito%20contentes%20em%20atend%C3%AA-lo.%20Para%20iniciarmos%20o%20atendimento%2C%20voc%C3%AA%20poderia%20nos%20dizer%20seu%20nome%2C%20por%20gentileza%3F
+LinkBehaviour_6B068F95_7C07_192A_41C1_C3325AA72B65.source = https://www.cervejariacolorado.com.br/
+LinkBehaviour_C6E97EBF_E310_73F7_417A_C572D22405EE.source = https://www.cervejariacolorado.com.br/
+LinkBehaviour_C6EA7EC0_E310_7389_41D7_18427D34235F.source = https://www.instagram.com/papers.beach/
+LinkBehaviour_6AA31B8D_7C1F_393B_41D3_16FBC550D870.source = https://www.instagram.com/papers.beach/
+LinkBehaviour_F310689E_E310_5E67_41E0_3EBE39DB8BA2.source = https://www.instagram.com/papers.beach/
+LinkBehaviour_C79224A1_E317_B78A_41E2_522EF2FFD5D0.source = https://www.instagram.com/papers.beach/
+
+## Media
+
+### Audio
+audiores_C384EAA8_E4F0_539A_41DE_38DE42DEFA2A.mp3Url = media/audio_C61AF6A5_E310_738A_41E4_6818FDDA5AB5_pt.mp3
+audiores_C3827A01_E4F0_528A_41D5_0F75DF15F0A7.mp3Url = media/audio_CBB29E21_E310_728A_41D8_46164F88EE9F_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_EC9E81F4_E0FD_E9E6_41D8_0676D4572024.label = IMG_20240828_151840_00_merged-2
+panorama_EBC3AC1D_E0FD_FE21_41E9_D7F443A8F861.label = IMG_20240828_151919_00_merged-2
+panorama_EBC4558D_E0FD_EE26_41D0_914CB0FD9CCF.label = IMG_20240828_162506_00_merged-2
+panorama_EBC460A2_E0FD_2663_41E1_17748B77FB51.label = IMG_20240830_085320_00_merged-2
+panorama_EBC5A99F_E0FD_2621_41E9_0B1EA8361A63.label = IMG_20240830_085430_00_merged-2
+panorama_EBC5C29A_E0FD_6A23_41D0_9F889A214C6E.label = IMG_20240830_085457_00_merged-2
+panorama_EBC5FB96_E0FD_7A23_41E4_A586690EFB98.label = IMG_20240830_085530_00_merged-2
+panorama_EBC5F472_E0FD_6EE2_41C6_13999C54DD68.label = IMG_20240830_085602_00_merged-2
+panorama_EBC58D7E_E0FD_1EE2_41E7_C507EED6CC43.label = IMG_20240830_085634_00_merged-2
+panorama_EBC5A69B_E0FD_2A21_41E8_7F65A4601555.label = IMG_20240830_085719_00_merged-2
+panorama_EBC54FB8_E0FD_3A6F_41E0_D909C9920076.label = IMG_20240830_085844_00_merged-2
+panorama_EBC578E6_E0FD_27E3_41B1_1CA37F758CDB.label = IMG_20240830_085912_00_merged-2
+panorama_EBC49213_E0FC_EA21_41DC_E294FEA7CE1A.label = IMG_20240830_085954_00_merged-2
+panorama_EBC48B21_E0FC_FA1E_41D6_FD31240FFA8D.label = IMG_20240830_090040_00_merged-2
+panorama_EBC4D44F_E0FC_EE21_41CF_F14027DE1534.label = IMG_20240830_090121_00_merged-2
+panorama_EBC4AD6B_E0FB_1EE1_41D7_99960E34A7F5.label = IMG_20240830_090234_00_merged-2
+
+## Skin
+
+### Button
+Button_FDAA3804_E313_BE88_41CB_6E2E97FAC360.label = COMO CHEGAR
+Button_FDAA3804_E313_BE88_41CB_6E2E97FAC360_mobile.label = COMO CHEGAR
+Button_6C1AE403_7C03_7954_41C9_486B58E61A2F.label = Clique aqui para mais informações 
+Button_6C1AE403_7C03_7954_41C9_486B58E61A2F_mobile.label = Clique aqui para mais informações 
+Button_76BA8DFE_79A3_2597_41BE_B76B714DF812_mobile.label = Dê sua nota no Google
+Button_76BA8DFE_79A3_2597_41BE_B76B714DF812.label = Dê sua nota no Google
+Button_FB55027E_E331_B378_41EB_F49CBD998544.label = Entre em Contato
+Button_FB55027E_E331_B378_41EB_F49CBD998544_mobile.label = Entre em Contato
+Button_F312B89D_E310_5E65_41E0_9FA81D3D050E.label = INSTAGRAM
+Button_F312B89D_E310_5E65_41E0_9FA81D3D050E_mobile.label = INSTAGRAM
+Button_EC60BB50_E311_D2F9_41E1_D6F400C4467E.label = NOSSO CATÁLOGO
+Button_EC60BB50_E311_D2F9_41E1_D6F400C4467E_mobile.label = NOSSO CATÁLOGO
+Button_F3387D60_E310_56DA_41DA_4511C8C773CB_mobile.label = TOUR VIRTUAL 360º
+Button_F3387D60_E310_56DA_41DA_4511C8C773CB.label = TOUR VIRTUAL 360º
+Button_ECD97E5C_E310_B2E8_41E5_DC53AB051E64.label = WHATSAPP
+Button_ECD97E5C_E310_B2E8_41E5_DC53AB051E64_mobile.label = WHATSAPP
+
+### Image
+Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_mobile.url = skin/Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_mobile_pt.png
+Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C.url = skin/Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_pt.png
+Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_mobile.url = skin/Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_mobile_pt.png
+Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48.url = skin/Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_pt.png
+Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_mobile.url = skin/Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_mobile_pt.png
+Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD.url = skin/Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_pt.png
+
+### Tooltip
+IconButton_C2919223_E377_B28F_41E2_3119E2649E33.toolTip = CARDÁPIO
+IconButton_C2919223_E377_B28F_41E2_3119E2649E33_mobile.toolTip = CARDÁPIO
+IconButton_7710E806_79A6_EA77_41C1_9744412BB2CB.toolTip = CARDÁPIO
+IconButton_7710E806_79A6_EA77_41C1_9744412BB2CB_mobile.toolTip = CARDÁPIO
+IconButton_7712A7B7_79A5_2595_41D9_B715E90A51D4.toolTip = COMO CHEGAR
+IconButton_7712A7B7_79A5_2595_41D9_B715E90A51D4_mobile.toolTip = COMO CHEGAR
+IconButton_7785B5CE_79A5_65F7_41D8_50043C11A7B3.toolTip = INSTAGRAM
+IconButton_7785B5CE_79A5_65F7_41D8_50043C11A7B3_mobile.toolTip = INSTAGRAM
+
+## Tour
+
+### Description
+tour.description = Sejam Bem-vindos ao Tour Virtual 360º
+
+### Title
+tour.name = Papers Beach
