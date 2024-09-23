@@ -36,10 +36,10 @@
    "type": "image/png"
   }
  ],
- "display": "fullscreen",
- "description": "Sejam Bem-vindos ao Tour Virtual 360º",
- "start_url": "index.htm",
- "theme_color": "#FFFFFF",
  "background_color": "#FFFFFF",
- "name": "Papers Beach"
+ "display": "fullscreen",
+ "start_url": "index.htm",
+ "name": "Papers Beach",
+ "theme_color": "#FFFFFF",
+ "description": "Sejam Bem-vindos ao Tour Virtual 360º"
 }
