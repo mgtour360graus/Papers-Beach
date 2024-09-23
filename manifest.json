@@ -37,9 +37,9 @@
   }
  ],
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "description": "Sejam Bem-vindos ao Tour Virtual 360º",
- "background_color": "#FFFFFF",
  "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
  "name": "Papers Beach"
 }
